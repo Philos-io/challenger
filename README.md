@@ -1,2 +1,2 @@
 # challenger
-Challengr build with React Native
+Challengr built with React Native

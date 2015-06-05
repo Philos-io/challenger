@@ -5,6 +5,9 @@
 'use strict';
 
 var React = require('react-native');
+var Header = require('./components/header');
+
+
 var {
   AppRegistry,
   StyleSheet,
@@ -15,9 +18,7 @@ var {
 var Challengr = React.createClass({
   render: function() {
     return (
-      <View>
-        <Text>Challengr</Text>
-      </View>
+      <Header/>
     );
   }
 });
